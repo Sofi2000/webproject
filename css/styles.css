@@ -1,9 +1,10 @@
 p{
-  color:black
+  color:red
 }
 
 h1{
-  font-size: 60px
+  font-size: 60px;
+text-decoration:underline
 }
 
 #server-side-intro{
@@ -15,5 +16,5 @@ my brand{
   font-style:italic;
   text-transform: lowercase;
   color: red;
-  
+
 }
